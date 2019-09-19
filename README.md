@@ -1,4 +1,6 @@
-# ecommerce
+# 🛍 Ecommerce Store with VueRouter
+
+Demo site is here:https://ecomerce-f7095.firebaseapp.com
 
 ## Project setup
 ```
@@ -25,5 +27,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
